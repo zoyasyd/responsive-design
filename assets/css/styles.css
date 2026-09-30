@@ -31,3 +31,20 @@ h1{
 	font-size: 1.6em; 
 	margin-bottom: 30px; 
 }
+
+.article {
+
+	padding: 10px; 
+	border-bottom: 3px double var(--deep-mocha); 
+}
+p a{
+	text-decoration: none;
+	font-weight: bold;
+	color: var(--grey-olive); 
+	border-bottom: 2px solid var(--grey-olive);
+}
+
+p a:hover{
+	color: var(--blue-bell); 
+	border-bottom: 2px dashed var(--blue-bell);
+}
