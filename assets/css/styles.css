@@ -1,2 +1,27 @@
 /* styles.css */
 
+:root {
+	--deep-mocha: #483d3f;
+	--blue-bell: #058ed9;
+	--eggshell: #f4ebd9; 
+	--grey-olive: #839892; 
+	--ash-brown: #77685d; 
+
+}
+
+body{
+	font-family: "Tinos", serif; 
+	background-color: var(--eggshell); 
+	font-weight: 400px; 
+	font-size: 1.2em; 
+	padding-top:25px; 
+
+}
+
+h1{
+	font-family: "Manufacturing Consent", system-ui;
+	font-size: 4em; 
+
+
+
+}
